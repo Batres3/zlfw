@@ -1,3 +1,4 @@
+This repo is no longer actively maintaned, I created this mostly as a learning tool for zig, and no longer have any interest in maintining/developing a glfw clone in zig, I will leave this archived in case anyone else would like to make their own version of it.
 # zlfw
 This package is meant to be entirely equivalent to using the C code direcly in terms of performance, while keeping a nice ziggified API.
 
